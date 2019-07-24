@@ -9,7 +9,7 @@ namespace ProjectProduk
     class Program
     {
         // deklarasi objek collection untuk menampung objek produk
-        static List<Produk> daftarProduk = new List<Produk>();
+        static List<Produk> dftrPrd = new List<Produk>();
 
         static void Main(string[] args)
         {
